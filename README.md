@@ -68,7 +68,7 @@ xbox series x · 9/10
 ### Mac / Linux
 
 ```bash
-git clone <this repository's address>   # or Download ZIP and unzip
+git clone https://github.com/Russel-Zimbwa/marketplace-sniper.git
 cd marketplace-sniper
 ./setup.sh
 ```
