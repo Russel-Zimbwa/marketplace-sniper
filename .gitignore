@@ -1,0 +1,12 @@
+# Your private settings and data - never commit these
+.env
+mpwatch.db
+*.db
+fb_profile/
+logs/
+
+# Generated
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
